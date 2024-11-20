@@ -1,4 +1,6 @@
-# 32Bit-ALU_Synthesis
+# Name : GOPINATHAN P
+# Reg no :212222060068
+# Exp-5: 32Bit-ALU_Synthesis
 
 ## Aim:
 
@@ -35,11 +37,22 @@ used.
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
-#### Synthesis RTL Schematic :
+#### Synthesis RTL Schematic :![Screenshot (51)](https://github.com/user-attachments/assets/e6ef9ff2-b501-4da9-8d38-54382e6de4d5)
 
-#### Area report:
 
-#### Power Report:
+
+
+#### Area report:![Screenshot (52)](https://github.com/user-attachments/assets/e1b500ad-1479-44a5-bab1-a1a0944ac0ce)
+
+
+
+#### Power Report:![Screenshot (53)](https://github.com/user-attachments/assets/55451136-f053-423b-8df8-9850d68c0951)
+
+
+
+#### Timing Report:![Screenshot (54)](https://github.com/user-attachments/assets/34ef4661-0510-4e8c-a076-11d76ad2ec1e)
+
+
 
 #### Result: 
 
